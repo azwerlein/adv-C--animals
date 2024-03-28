@@ -1,0 +1,15 @@
+D:\Workspace\C#\adv-C#-animals\bin\Debug\net6.0\adv-C#-animals.exe
+D:\Workspace\C#\adv-C#-animals\bin\Debug\net6.0\adv-C#-animals.deps.json
+D:\Workspace\C#\adv-C#-animals\bin\Debug\net6.0\adv-C#-animals.runtimeconfig.json
+D:\Workspace\C#\adv-C#-animals\bin\Debug\net6.0\adv-C#-animals.dll
+D:\Workspace\C#\adv-C#-animals\bin\Debug\net6.0\adv-C#-animals.pdb
+D:\Workspace\C#\adv-C#-animals\obj\Debug\net6.0\adv-C#-animals.csproj.AssemblyReference.cache
+D:\Workspace\C#\adv-C#-animals\obj\Debug\net6.0\adv-C#-animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\C#\adv-C#-animals\obj\Debug\net6.0\adv-C#-animals.AssemblyInfoInputs.cache
+D:\Workspace\C#\adv-C#-animals\obj\Debug\net6.0\adv-C#-animals.AssemblyInfo.cs
+D:\Workspace\C#\adv-C#-animals\obj\Debug\net6.0\adv-C#-animals.csproj.CoreCompileInputs.cache
+D:\Workspace\C#\adv-C#-animals\obj\Debug\net6.0\adv-C#-animals.dll
+D:\Workspace\C#\adv-C#-animals\obj\Debug\net6.0\refint\adv-C#-animals.dll
+D:\Workspace\C#\adv-C#-animals\obj\Debug\net6.0\adv-C#-animals.pdb
+D:\Workspace\C#\adv-C#-animals\obj\Debug\net6.0\adv-C#-animals.genruntimeconfig.cache
+D:\Workspace\C#\adv-C#-animals\obj\Debug\net6.0\ref\adv-C#-animals.dll
